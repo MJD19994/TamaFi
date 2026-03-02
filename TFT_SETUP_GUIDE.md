@@ -184,14 +184,7 @@ The TamaFi V2 hardware routes the display to **GPIO 35 and 36**, which are only 
 | TFT_DC | 16 | Data/Command |
 | TFT_RST | - | Not connected |
 | Backlight | 7 | Controlled by code |
-| NeoPixels | 1 | WS2812 LEDs (4x) |
-| BTN_UP | 13 | Menu navigation |
-| BTN_OK | 12 | Select/Confirm |
-| BTN_DOWN | 11 | Menu navigation |
-| BTN_RIGHT1 | 8 | Quick access |
-| BTN_RIGHT2 | 9 | Quick access |
-| BTN_RIGHT3 | 10 | Quick access |
-| Buzzer | 2 | Sound effects |
+
 
 ---
 
